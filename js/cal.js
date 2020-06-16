@@ -28,4 +28,8 @@ function multiply() {
     newOutput.innerText = document.getElementById("num1").value + " * " + document.getElementById("num2").value + " = " + document.getElementById("myAnswer").value;
 }
 
+function hello() {
+    console.log("hello");
+}
+
 
